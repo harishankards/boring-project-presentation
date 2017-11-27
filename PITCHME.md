@@ -23,5 +23,9 @@ We will be creating a platform which bridges the Students and the Industries.
   - They can work for the industries even during the tenure of college|
 - Industries can choose a perfect gem to their crown easily and quickly.|
 ---
-### Student Profile
+### Student Functionalities
+---?image=https://github.com/harishankards/boring-project-presentation/blob/master/assets/images/Student%20.png&size=auto 80%
+---
+### Industry Functionalities
+---?image=https://github.com/harishankards/boring-project-presentation/blob/master/assets/images/Industry%20.png&size=auto 80%
 ---
