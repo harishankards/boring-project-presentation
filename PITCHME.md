@@ -17,3 +17,7 @@ But you had to leave that for studying so that you could get a job.
 ---
 We will be creating a platform which bridges the Students and the Industries.
 ---
+- Students can  showcase their projects/inventions and get recognized by the industries Indirectly
+- Recursively it will motivate many students.
+..- They will come up with their owns and get known by the industries.
+..- They can work for the industries even during the tenure of college.
