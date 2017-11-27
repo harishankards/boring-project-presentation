@@ -27,5 +27,5 @@ We will be creating a platform which bridges the Students and the Industries.
 ---?image=assets/images/Student.png&size=auto 92%
 ---
 ### Industry Functionalities
----?image=assets/images/Industry.png&size=auto 92%
+---?image=assets/images/Ind.png&size=auto 92%
 ---
