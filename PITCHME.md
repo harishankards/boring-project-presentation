@@ -24,8 +24,8 @@ We will be creating a platform which bridges the Students and the Industries.
 - Industries can choose a perfect gem to their crown easily and quickly.|
 ---
 ### Student Functionalities
----?image=assets/images/Student.png&size=80% 80%
+---?image=assets/images/Student.png&size=auto 92%
 ---
 ### Industry Functionalities
----?image=assets/images/Industry.png&size=80% 80%
+---?image=assets/images/Industry.png&size=auto 92%
 ---
