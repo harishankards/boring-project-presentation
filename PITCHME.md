@@ -24,9 +24,10 @@ We will be creating a platform which bridges the Students and the Industries.
 - Industries can choose a perfect gem to their crown easily and quickly.|
 ---
 ### Student Functionalities
-![logo](https://github.com/harishankards/boring-project-presentation/blob/master/assets/images/Student%20.png)
+---
+---?image=assets/images/Student.png&size=auto
 ---
 ### Industry Functionalities
-![logo](https://github.com/harishankards/boring-project-presentation/blob/master/assets/images/Industry%20.png)
-
+---
+---?image=assets/images/Industry.png&size=auto
 ---
