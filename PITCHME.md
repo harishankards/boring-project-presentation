@@ -29,3 +29,7 @@ We will be creating a platform which bridges the Students and the Industries.
 ### Industry Functionalities
 ---?image=assets/images/Ind.png&size=auto 92%
 ---
+### Criticisms | Questions | Feedbacks
+Precisely in that order.
+---
+## Thank you @fa[smile-o]
